@@ -1,5 +1,5 @@
 Slime Slayer
-## Controls)
+## Controls
 
 * **move:** (←, →)
 
