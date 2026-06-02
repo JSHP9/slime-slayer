@@ -3,13 +3,13 @@ Slime Slayer
 
 * **move:** (←, →)
 
-* **jump:** Space Bar
+* **jump:** space bar
 
 * **attack:** ctrl
 
 * **dash:** alt
 
-* **stop:** ESC
+* **stop:** esc
 
 
 
